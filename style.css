@@ -1,0 +1,95 @@
+body {
+    background-image:url(img/fundo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.Titulo {
+    font-size: 50px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    text-align: center;
+    
+}
+
+
+.atual {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+    text-align: center;
+    top: 90px;
+}
+
+.maximo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+    text-align: center;
+    top: 90px;
+}
+
+.minimo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+    text-align: center;
+    top: 90px;
+}
+
+
+
+
+
+
+
+.Quadrado {
+    color: white;
+    font-size: 170px;
+    position: relative;
+    text-align: center;
+    top: 90px;
+    background-color: blue;
+    border-radius: 40px;
+    margin: 100px auto;
+    box-shadow: 0 0 10px white;
+    width: 530px;
+    height: 200px;
+    margin-top: -150px;
+}
+
+.Quadrado2 {
+    color: white;
+    font-size: 170px;
+    position: relative;
+    text-align: center;
+    top: 90px;
+    background-color: blue;
+    border-radius: 40px;
+    margin: 100px auto;
+    box-shadow: 0 0 10px white;
+    width: 530px;
+    height: 200px;
+    margin-top: -150px;
+}
+
+.Quadrado3 {
+    color: white;
+    font-size: 170px;
+    position: relative;
+    text-align: center;
+    top: 90px;
+    background-color: blue;
+    border-radius: 40px;
+    margin: 100px auto;
+    box-shadow: 0 0 10px white;
+    width: 530px;
+    height: 200px;
+    margin-top: -150px;
+}
